@@ -1,6 +1,6 @@
 # Instagram reels (es), optimized
 
-Versión optimizada del (Instagram reels)[instagram_reels.md]
+Versión optimizada del [Instagram reels](instagram_reels.md)
 
 ## Prompt
 
