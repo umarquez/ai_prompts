@@ -1,7 +1,9 @@
 # Instagram reels optimized
 
-**Lang:** es
-**Description:** Versión optimizada del [Instagram reels](instagram_reels.md)
+|  field  | value |
+|---------|----|
+|**Lang** | es |
+|**Description** | Versión optimizada del [Instagram reels](instagram_reels.md) |
 
 ## Prompt
 
