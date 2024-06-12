@@ -1,6 +1,7 @@
-# Instagram reels (es), optimized
+# Instagram reels optimized
 
-Versión optimizada del [Instagram reels](instagram_reels.md)
+**Lang:** es
+**Description:** Versión optimizada del [Instagram reels](instagram_reels.md)
 
 ## Prompt
 
@@ -26,4 +27,39 @@ Resultados deseados
 Temas y contenidos de interes relacionados
 
 Hazme las preguntas que consideres necesarias para obtener toda la información antes de ejecutar la tarea, si después de generar una respuesta hubiera preguntas adicionales que te ayudaran a optimizar la respuesta, hazlas, pues el objetivo es tener eel mejor resultado.
+```
+
+## Expected output
+
+```
+¡Entendido! Para poder ayudarte a crear Reels de impacto que resuenen con tu público objetivo y alcancen tus objetivos de campaña, necesito obtener más información sobre tu empresa o proyecto. Aquí hay algunas preguntas que me ayudarán a personalizar la estrategia de contenido:
+
+1. **Empresa o Proyecto:**
+   - ¿Cuál es el nombre y la naturaleza de tu empresa o proyecto?
+   - ¿Cuál es tu propuesta de valor o diferenciador principal en el mercado?
+
+2. **Objetivo de la Campaña:**
+   - ¿Cuál es el objetivo específico de la campaña? (Por ejemplo, aumentar seguidores, incrementar la interacción, generar leads, etc.)
+   - ¿Cuál es el público objetivo específico de esta campaña? (Edades, intereses, ubicación, etc.)
+
+3. **Objetivo del Contenido:**
+   - ¿Qué mensaje principal deseas transmitir con tu contenido?
+   - ¿Cómo quieres que tu audiencia se sienta o actúe después de ver tu contenido?
+
+4. **Pilares de Contenido:**
+   - Para el Pilar de Contenido 1 (Educativo y de divulgación):
+     - ¿Qué temas educativos y de divulgación son más relevantes para tu audiencia?
+     - ¿Qué tipo de información crees que tu audiencia está buscando?
+
+   - Para el Pilar de Contenido 2 (Entretenimiento):
+     - ¿Qué tipo de contenido de entretenimiento resuena más con tu audiencia?
+     - ¿Hay algún formato o estilo particular que prefiera tu audiencia?
+
+   - Para el Pilar de Contenido 3 (Nuevos negocios):
+     - ¿Qué aspectos de tu negocio o servicios deseas promover?
+     - ¿Qué mensajes clave quieres transmitir para atraer nuevos negocios?
+
+Una vez tenga estas respuestas, podré crear una tabla con ideas de contenido específicas para cada pilar y temática, identificando errores comunes, mitos, preguntas frecuentes, creencias limitantes, desafíos, resultados deseados, y temas de interés relacionados.
+
+¿Qué te parece esta propuesta? ¿Hay alguna otra información adicional que crees que sería útil para desarrollar esta estrategia?
 ```
